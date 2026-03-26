@@ -4,7 +4,7 @@
 This is a RESTful API built using Node.js, Express, and MongoDB Atlas. It performs CRUD operations on user data.
 
 ## Base URL
-https://your-app.onrender.com
+https://geraldibezim.tiiny.site
 
 ## Endpoints
 
@@ -13,7 +13,7 @@ POST /api/login
 
 Body:
 {
-  "username": "AfamO",
+  "username": "geraldibezim",
   "password": "12345"
 }
 
